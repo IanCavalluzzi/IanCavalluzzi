@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Ian here,
+learning the basics of git and version control through Github
 <!--
 **IanCavalluzzi/IanCavalluzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
